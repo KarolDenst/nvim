@@ -1,0 +1,6 @@
+This file contains a list of things missing from this config:
+- spelling and grammar checker
+- git manager
+- debuggers
+- harpoon
+- turning the theme on before lazy
