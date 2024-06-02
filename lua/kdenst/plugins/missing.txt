@@ -3,6 +3,5 @@ This file contains a list of things missing from this config:
 - git manager
 - debuggers
 - harpoon
-- turning the theme on before lazy
 - terminal inside nvim
 - navigating tree with h,l
