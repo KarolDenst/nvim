@@ -37,7 +37,9 @@ return {
         "cpp",
         "c_sharp",
         "python",
-        "rust"
+        "rust",
+        "toml",
+        "gleam",
       },
       incremental_selection = {
         enable = true,

@@ -23,3 +23,5 @@ vim.opt.scrolloff = 10
 vim.opt.hlsearch = true
 vim.opt.relativenumber = true
 vim.g.python3_host_prog = "C:/Users/kdens/AppData/Local/Programs/Python/Python311/python"
+vim.opt.spelllang = "en_us"
+vim.opt.spell = true
